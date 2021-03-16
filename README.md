@@ -4,10 +4,10 @@ Code for my MIDI Controlled Bells Project
 Code modified from examples by <a href="https://www.partsnotincluded.com/controlling-musical-floppy-drives-directly-via-midi/">partsnotincluded.com</a> adapted for use with solenoids.
 # Requirements
 Arduino Mega <br/>
-ESP32
-Hairless MIDI
-Loop MIDI
-MIDI Player
+ESP32 <br/>
+Hairless MIDI <br/>
+Loop MIDI <br/>
+MIDI Player <br/>
 Multi Channel Relay Boards
 # Use
 Using this is super easy! Simply install all the software above, and connect Hairless MIDI to the same COM port as the ESP32. Then use a MIDI player to send midi data to the ESP32 and watch as your relay boards click away!
